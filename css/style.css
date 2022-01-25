@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Courgette&family=Dancing+Script&family=Dongle&family=Lobster&family=Lobster+Two&family=Mochiy+Pop+P+One&family=Montserrat:wght@200&family=Poppins:wght@200&family=Sacramento&family=The+Nautigal&family=Ubuntu:wght@300&display=swap');
+
+*{
+    margin: 1px;
+    padding: 1px;
+}
+
+.graa{
+    color: lightsalmon;
+    font-family: 'Nova Cut', sans-serif;
+}
+
+.big-grass{
+    width: 2em;
+}
+.text{
+    color: whitesmoke;
+}
+
+.text{
+    color: maroon;
+}
+
+.wh{
+    width: 12em;
+}
